@@ -1,4 +1,6 @@
-![mycode](krystallopez.gif)
+<p align="center" >
+<img  width=800 src="krystallopez.gif" alt="animated"/>
+</p>
  
 My name is Krystal Lopez , I am a lover of all things pop culture, especially Star Wars. I am a software engineer and I am currently working on a few things. I have recently learned JavaScript and I am now currently learning Python. What was once just curiosity has now turned into a career for me and I love learning new things. I hope to create something that will make the world better for everyone. 
 
