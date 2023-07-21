@@ -2,7 +2,7 @@
 <img  width=800 src="krystallopez.gif" alt="animated"/>
 </p>
  
-My name is Krystal Lopez , I am a lover of all things pop culture, especially Star Wars. I am a software engineer and I am currently working on a few things. I have recently learned JavaScript and I am now currently learning Python. What was once just curiosity has now turned into a career for me and I love learning new things. I hope to create something that will make the world better for everyone. 
+My name is Krystal Lopez, I love all things pop culture, especially Star Wars. I am a software engineer currently working as an Engineering Associate at Cisco Systems. I have recently learned JavaScript and I am now learning Python. What was once just curiosity has now turned into a career for me and I love learning new things. I am currently working on mastering React and improving my skills in JavaScript. I am also learning Pythona as well. 
 
 ## Skills 
 
