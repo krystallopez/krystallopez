@@ -22,7 +22,6 @@ I am a full-stack software engineer based in Ventura County, CA:
 These are the following languages that I have learned and work with frequently: 
 
 - CSS 
-- Ruby :gem:
 - JavaScript
 - Python :snake:
 - HTML
