@@ -21,11 +21,11 @@ I am a full-stack software engineer based in Ventura County, CA:
 
 These are the following languages that I have learned and work with frequently: 
 
-- CSS 
-- JavaScript
+- CSS 🎨
+- JavaScript 💽
 - Python :snake:
-- HTML
-- Typescript 
+- HTML :ht
+- Typescript ✍️
 
 <!-- CSS | JavaScript | Python | HTML | Typescript -->
 
@@ -40,12 +40,11 @@ These are the following languages that I have learned and work with frequently:
 
 Below are some of the frameworks and libraries that I use on my day-to-day: 
 
-- JavaScript 💽
 - Postman 🚀
 - Django 🔴
 - React :atom:
 - Docker 🐳
-- Python 🐍
+
 
  <!-- Ruby on Rails | Express.js | Python | Node.js | Postman | React | Docker -->
  
