@@ -6,8 +6,7 @@
 
 I am a full-stack software engineer based in Ventura County, CA: 
 
-- I am currently working as a Software Engineering Associate and contributing to front-end and backend for building web applications and internal tooling 
-- I am actively participating in a 15-month apprenticeship, and in the last phase 
+- I am currently working as a Software Engineer and contributing to front-end and backend for building web applications and internal tooling 
 - Currently learning React and will be learning Python and Django
 - In my free time, I love reading and gaming. I am a huge Star Wars fan and am an avid collector.
 - Check out my Contact section below if you would like to reach out to me :smile:
