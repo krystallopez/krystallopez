@@ -23,7 +23,7 @@ These are the following languages that I have learned and work with frequently:
 - CSS 🎨
 - JavaScript 💽
 - Python :snake:
-- HTML :ht
+- HTML :file_folder:
 - Typescript ✍️
 
 <!-- CSS | JavaScript | Python | HTML | Typescript -->
